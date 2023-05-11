@@ -49,7 +49,6 @@ INSERT INTO Parentesco (IdResponsavel, IdAluno, Parentesco) VALUES
     (IdJoao, IdFilipe, 'Pai'),
     (IdMaria, IdFilipe, 'Mãe'),
     (IdJose, IdFilipe, 'Tio');
-
 ```
 
 ### Questão 2
