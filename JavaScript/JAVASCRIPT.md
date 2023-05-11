@@ -15,7 +15,7 @@ Quanto ao Hoisting, declarando as variáveis com `VAR`, faz com que elas sejam m
             }
         };
     ```
-    - poderia caso cada objeto interno fosse uma propriedade:
+    - poderia percorrer caso cada objeto interno fosse uma propriedade:
     ```
         var clientes_exemplo = {
             "cliente 1": {
