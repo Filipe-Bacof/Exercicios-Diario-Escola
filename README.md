@@ -1,11 +1,17 @@
-* Instruções            
+# EXERCÍCIOS DIÁRIO ESCOLA:
+1. Os exercícios são sobre as seguintes linguagens:
+    - JavaScript
+    - PHP
+    - SQL
 
-   - Realize os exercícios conforme as instruções
+2. Todos os exercícios bonus inclusos nos PDFs foram respondidos;
 
-   - Você pode buscar as referências necessárias para realizá-los (internet, livros, fóruns, etc.)
+3. Prazo limite para envio dos exercícios: 15/05/2023
 
-   - O exercícios devem ser realizados por você. Não faça copy&paste!
+4. Os exercícios foram efetuados no dia 11/05/2023 e enviados por email para o recrutamento conforme solicitado;
 
-   - Suba os artefatos (código, documentação com respostas, etc.) para seu GitHub
+5. Qualquer dúvida é só entrar em contato comigo:
+   - [Me Chame no WhatsApp](https://wa.me/5551994456865?text=Ol%C3%A1%2C+verifiquei+seus+exerc%C3%ADcios+e+gostaria+de+falar+sobre+uma+vaga+de+programador)
 
-   - Envie um e-mail com o link do repositório para `recrutamento@diarioescola.com.br`
+6. se quiser verificar o meu portifólio é só acessar abaixo:
+   - [Portifólio Filipe Bacof](https://portifolio-filipe-bacof.vercel.app/)
