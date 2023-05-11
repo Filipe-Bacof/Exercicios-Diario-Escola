@@ -13,5 +13,5 @@
 5. Qualquer dúvida é só entrar em contato comigo:
    - [Me Chame no WhatsApp](https://wa.me/5551994456865?text=Ol%C3%A1%2C+verifiquei+seus+exerc%C3%ADcios+e+gostaria+de+falar+sobre+uma+vaga+de+programador)
 
-6. se quiser verificar o meu portifólio é só acessar abaixo:
+6. Se quiser verificar o meu portifólio é só acessar abaixo:
    - [Portifólio Filipe Bacof](https://portifolio-filipe-bacof.vercel.app/)
