@@ -11,9 +11,7 @@
 4. Os exercícios foram efetuados no dia 11/05/2023 e enviados por email para o recrutamento conforme solicitado;
 
 5. Qualquer dúvida é só entrar em contato comigo:
-   <!-- [Me Chame no WhatsApp](https://wa.me/5551994456865?text=Ol%C3%A1%2C+verifiquei+seus+exerc%C3%ADcios+e+gostaria+de+falar+sobre+uma+vaga+de+programador) -->
-   <a href="https://wa.me/5551994456865?text=Ol%C3%A1%2C+verifiquei+seus+exerc%C3%ADcios+e+gostaria+de+falar+sobre+uma+vaga+de+programador" target="_blank">Me Chame no WhatsApp</a>
+   [Me Chame no WhatsApp](https://wa.me/5551994456865?text=Ol%C3%A1%2C+verifiquei+seus+exerc%C3%ADcios+e+gostaria+de+falar+sobre+uma+vaga+de+programador){:target="_blank" rel="noopener"}
 
 6. se quiser verificar o meu portifólio é só acessar abaixo:
-   <!-- [Portifólio Filipe Bacof](https://portifolio-filipe-bacof.vercel.app/) -->
-   <a href="https://portifolio-filipe-bacof.vercel.app/" target="_blank">Portifólio Filipe Bacof</a>
+   [Portifólio Filipe Bacof](https://portifolio-filipe-bacof.vercel.app/){:target="_blank" rel="noopener"}
